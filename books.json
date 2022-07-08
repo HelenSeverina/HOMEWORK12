@@ -1,14 +1,16 @@
-[
-  {
-    "author": "David Flagman"
-  },
-  {
-    "author": "Kyle Simpson"
-  },
-  {
-    "author": "John Resig"
-  },
-  {
-    "author": "Jeremy Keith"
-  }
-]
+{
+  "books": [
+    {
+      "author": "David Flagman"
+    },
+    {
+      "author": "Kyle Simpson"
+    },
+    {
+      "author": "John Resig"
+    },
+    {
+      "author": "Jeremy Keith"
+    }
+  ]
+}
