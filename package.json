@@ -1,0 +1,14 @@
+{
+  "name": "homework12",
+  "version": "1.0.0",
+  "description": "homework12",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helen Severina",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.13.5"
+  }
+}
